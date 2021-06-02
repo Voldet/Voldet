@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ 厦门人, 南方科技大学硕士
-- 🔭 热爱 coding 的算法研究员一枚，欢迎关注/star~
-- 🌱 脑科学、机器学习、深度学习，持续输出ing
+- ⚡ 厦门人，硕士南方科技大学生医工，本科南方科技大学计算机
+- 🔭 热爱 coding，欢迎关注/star~
+- 🌱 关注脑科学、机器学习、深度学习、数据挖掘
 - 🤔 Website：http://voldet.github.io
 
 
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Voldet">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voldet&layout=compact" />
   </a>
-  <a href="https://github.com/Voldet">
+ <!--    <a href="https://github.com/Voldet">
   <img src="https://activity-graph.herokuapp.com/graph?username=Voldet&theme=react-dark" />
-  </a>
+  </a> -->
 </p>
 </div>
 <div align=center>
