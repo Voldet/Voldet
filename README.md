@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ 厦门人，硕士南方科技大学生医工，本科南方科技大学计算机
+- ⚡ 硕士南方科技大学生医工，本科南方科技大学计算机
 - 🔭 热爱 coding，欢迎关注/star~
 - 🌱 关注脑科学、机器学习、深度学习、数据挖掘
 - 🤔 Website：http://voldet.github.io
