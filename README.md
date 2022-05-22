@@ -36,5 +36,5 @@ Here are some ideas to get you started: -->
 </p>
 </div>
 <div align=center>
-<img src="./wechat.png" alt="wechat" width="300" height="300" align="bottom" />
+<!-- <img src="./wechat.png" alt="wechat" width="300" height="300" align="bottom" /> -->
 </div>
