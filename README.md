@@ -6,8 +6,8 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 Greetings! I am Ziyuan Ye, a 2-nd year PhD student in Computer Science at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by Prof. Jibin Wu and Prof. Kay Chen Tan (Chair Professor, IEEE Fellow). I obtained my M.Eng. degree in Biomedical Engineering from the Southern University of Science and Technology (SUSTech) in 2023 advised by Prof. Quanying Liu. Before that, I received my B.Eng. degree in Computer Science and Engineering from SUSTech in 2020, supervised by Prof. Jialin Liu and Prof. Xin Yao (Chair Professor, IEEE Fellow).
-- 📫 Kindly find more information about me at: http://voldet.github.io
+- 🌱 Greetings! I am Ziyuan Ye, a 2-nd year PhD student in Computer Science at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by Prof. [Jibin Wu](https://scholar.google.com/citations?user=QwDyvrgAAAAJ) and Prof. [Kay Chen Tan](https://scholar.google.com/citations?user=LFngSp0AAAAJ) (Chair Professor, IEEE Fellow). I obtained my M.Eng. degree in Biomedical Engineering from the [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/) in 2023 advised by Prof. [Quanying Liu](https://scholar.google.com/citations?user=UpP9hJ8AAAAJ). Before that, I received my B.Eng. degree in Computer Science and Engineering from SUSTech in 2020, supervised by Prof. [Jialin Liu](https://scholar.google.com/citations?user=xhytgbIAAAAJ) and Prof. [Xin Yao](https://scholar.google.com/citations?user=UUtYPl4AAAAJ) (Chair Professor, IEEE Fellow).
+- 📫 Kindly find more information about me at: [link](http://voldet.github.io)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
