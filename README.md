@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 Greetings! I am Ziyuan Ye, a 2-nd year PhD student in Computer Science at the Hong Kong Polytechnic University (PolyU), advised by Prof. Jibin Wu and Prof. Kay Chen Tan (Chair Professor, IEEE Fellow). I obtained my M.Eng. degree in Biomedical Engineering from the Southern University of Science and Technology (SUSTech) in 2023 advised by Prof. Quanying Liu. Before that, I received my B.Eng. degree in Computer Science and Engineering from SUSTech in 2020, supervised by Prof. Jialin Liu and Prof. Xin Yao (Chair Professor, IEEE Fellow).
+- 🌱 Greetings! I am Ziyuan Ye, a 2-nd year PhD student in Computer Science at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), advised by Prof. Jibin Wu and Prof. Kay Chen Tan (Chair Professor, IEEE Fellow). I obtained my M.Eng. degree in Biomedical Engineering from the Southern University of Science and Technology (SUSTech) in 2023 advised by Prof. Quanying Liu. Before that, I received my B.Eng. degree in Computer Science and Engineering from SUSTech in 2020, supervised by Prof. Jialin Liu and Prof. Xin Yao (Chair Professor, IEEE Fellow).
 - 📫 Kindly find more information about me at: http://voldet.github.io
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
